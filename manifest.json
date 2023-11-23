@@ -15,7 +15,9 @@
     "personalization",
     "utilities"
   ],
-  "screenshots": [],
+  "screenshots": [
+    "src": "/Taskcheck/assets/imagem.png"
+  ],
   "icons": [
     {
       "src": "/Taskcheck/assets/icone.svg"
