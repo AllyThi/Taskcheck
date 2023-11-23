@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "Agenda com armazenamento local",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TaskCheck",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TaskC",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "education",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/Taskcheck/assets/favicon-d3a29a91.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "task",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "id": "Ally_thi",
+  "lang": "pt"
+}
