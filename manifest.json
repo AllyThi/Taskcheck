@@ -1,0 +1,34 @@
+{
+  "background_color": "#ffffff",
+  "description": "Aplicação para anotar tarefas , sem integração com banco usando armazenamento local.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "allythi.github",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "allythi.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "education",
+    "personalization",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/Taskcheck/assets/favicon-d3a29a91.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "task",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "id": "Ally_Thi",
+  "lang": "pt"
+}
